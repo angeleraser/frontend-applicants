@@ -36,7 +36,7 @@ export const SearchForm = () => {
               }
             }}
             placeholder={`${
-              isInvalid ? "Please provide a valid name" : "Type a user name"
+              isInvalid ? "Please provide a valid name" : "Type a user name..."
             }`}
           />
         </label>
